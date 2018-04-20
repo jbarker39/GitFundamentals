@@ -4,3 +4,5 @@ adding some new information
 sharing remotely is fun and easy
 
 Feature1
+Feature2
+Feature2 changes
